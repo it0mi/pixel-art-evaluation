@@ -12,7 +12,7 @@ const langButton = document.getElementById("lang");
 const yesButton = document.getElementById("isPixelArtist");
 const noButton = document.getElementById("isNotPixelArtist");
 
-let lang = localStorage.getItem("locale");
+let lang = localStorage.getItem("locale") || "cs";
 let nextLang = lang === "en" ? "cs" : "en";
 langButton.innerHTML = nextLang === "en" ? "EN" : "CZ";
 
