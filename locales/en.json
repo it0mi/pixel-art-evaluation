@@ -6,6 +6,8 @@
   "introParagraph2": "In each step, two images will be displayed. Your task is to select:",
   "introBullet1": "which image looks better,",
   "introBullet2": "or whether they appear approximately equal.",
+  "introParagraphReference": "You may use the original image as a reference when making your decision.",
+  "introParagraphNoCorrect": "There are no right or wrong answers. Simply choose according to your own preference.",
   "introParagraph3": "The evaluations are completely anonymous. You do not need to complete all evaluations or all comparisons within them. You may stop the evaluation at any time and return later.",
 
   "pixelArtistText": "Are you familiar with pixel art or have experience creating it?",
