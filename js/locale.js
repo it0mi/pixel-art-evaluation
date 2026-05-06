@@ -25,9 +25,9 @@ function supportedOrDefault(locales) {
 }
 
 function browserLocale(languageCodeOnly = false) {
-  return navigator.language.map((locale) =>
-    languageCodeOnly ? locale.split("-")[0] : locale,
-  );
+  const locale = navigator.language;
+
+  return languageCodeOnly ? locale.split("-")[0] : locale;
 }
 
 export async function setLocale(newLocale) {
