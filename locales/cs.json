@@ -16,6 +16,7 @@
   "deadlineText": "Prosím o vyplnění hodnocení do 13. 5. 2026, aby mohly být výsledky zahrnuty do vyhodnocení diplomové práce.",
 
   "evaluationSelection": "Výběr hodnocení",
+  "evaluationText": "Níže jsou tři různá hodnocení. Budu rád, pokud postupně vyplníte všechna tři. Pokud však máte čas pouze na jedno, vyberte prosím libovolné z nich.",
   "evaluation1": "Hodnocení 1: Základní metody",
   "evaluation2": "Hodnocení 2: Redukce barev",
   "evaluation3": "Hodnocení 3: Porovnání metod",
@@ -26,7 +27,7 @@
   "back": "Zpět",
   "evaluationTitle": "Hodnocení",
 
-  "evaluationInstruction": "Vyberte obrázek, který podle vás vypadá lépe.",
+  "evaluationInstruction": "Vyberte obrázek, který podle Vás vypadá lépe.",
 
   "referenceImage": "Původní obrázek",
 
