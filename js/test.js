@@ -181,7 +181,7 @@ async function submitChoice(choice) {
     right_method: pair.right_method,
     scale: pair_scale,
 
-    color_count: arr_len,
+    color_count: color_count,
     image_name: img_name,
 
     response_time_ms: responseTime,
