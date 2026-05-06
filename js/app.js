@@ -50,6 +50,6 @@ let isArtist = localStorage.getItem("pixelArtist");
 if (isArtist === null) {
   localStorage.setItem("pixelArtist", "false");
 } else {
-  if (isArtist) yesButton.click();
+  if (isArtist === "true") yesButton.click();
   else noButton.click();
 }
