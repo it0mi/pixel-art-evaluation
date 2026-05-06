@@ -245,7 +245,7 @@ document.addEventListener("keydown", (e) => {
       sameButton.click();
       break;
     case "d":
-      sameButton.click();
+      rightButton.click();
   }
 });
 
