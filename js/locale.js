@@ -8,7 +8,7 @@ let translations = {};
 let locale;
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const initialLocale = supportedOrDefault(browserLocales(true));
+  const initialLocale = supportedOrDefault(browserLocale(true));
   if (initialLocale != "cs") document.body.hidden = true;
   await setLocale(initialLocale);
   document.body.hidden = false;
@@ -24,8 +24,8 @@ function supportedOrDefault(locales) {
   return locales.find(isSupported) || defaultLocale;
 }
 
-function browserLocales(languageCodeOnly = false) {
-  return navigator.languages.map((locale) =>
+function browserLocale(languageCodeOnly = false) {
+  return navigator.language.map((locale) =>
     languageCodeOnly ? locale.split("-")[0] : locale,
   );
 }
