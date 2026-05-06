@@ -1,0 +1,89 @@
+<!--
+  -- Author: Tomáš Kurtin (xkurti03@stud.fit.vut.cz)
+  -- Date: 5 May 2026
+  -- Description: Test page, where user chooses between two images
+  -->
+
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title data-i18n-key="pageTitle">Evaluace pixel-art metod</title>
+
+    <link rel="stylesheet" href="css/pico/pico.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <link rel="icon" href="data:;base64,=" />
+  </head>
+
+  <body>
+    <main class="container">
+      <header>
+        <h3 id="test-title" data-i18n-key="evaluationTitle">Hodnocení</h3>
+        <a href="index.html" data-i18n-key="back"> Zpět </a>
+      </header>
+
+      <section>
+        <p data-i18n-key="evaluationInstruction">
+          Vyberte obrázek, který podle vás vypadá lépe.
+        </p>
+      </section>
+
+      <section id="reference-section">
+        <h4 data-i18n-key="referenceImage">Původní obrázek</h4>
+
+        <img id="reference-image" alt="" />
+      </section>
+
+      <section id="comparison-container">
+        <figure class="comparison-card">
+          <img id="left-image" alt="" />
+        </figure>
+
+        <figure class="comparison-card">
+          <img id="right-image" alt="" />
+        </figure>
+      </section>
+
+      <section id="controls">
+        <button id="left-button">
+          <div id="left-button-text" data-i18n-key="leftBetter">
+            Levý je lepší
+          </div>
+          <div class="key-hint"><strong>(A)</strong></div>
+        </button>
+
+        <button id="same-button" class="secondary">
+          <div id="same-button-text" data-i18n-key="same">
+            Jsou přibližně stejné
+          </div>
+          <div class="key-hint"><strong>(S)</strong></div>
+        </button>
+
+        <button id="right-button">
+          <div id="right-button-text" data-i18n-key="rightBetter">
+            Pravý je lepší
+          </div>
+          <div class="key-hint"><strong>(D)</strong></div>
+        </button>
+      </section>
+
+      <p id="counter"></p>
+
+      <footer>
+        <hr />
+        <small>
+          <div data-i18n-key="footerText">
+            Tomáš Kurtin · FIT VUT · Diplomová práce 2026
+          </div>
+          <div data-i18n-key="footerMail">xkurti03@stud.fit.vut.cz</div>
+        </small>
+      </footer>
+    </main>
+
+    <script type="module" src="js/test.js"></script>
+  </body>
+</html>

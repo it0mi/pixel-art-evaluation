@@ -1,0 +1,44 @@
+{
+  "pageTitle": "Pixel Art Method Evaluation",
+  "indexTitle": "Subjective Evaluation of Pixel Art Methods",
+
+  "introParagraph1": "Hello,\n\nthis application is used for subjective comparison of methods for converting images into pixel art. Pixel art is a graphical style characterized by low resolution and a visible pixelated (\"blocky\") structure. The images used in these evaluations were generated as part of my master's thesis focused on automatic conversion of regular images into pixel art style.",
+  "introParagraph2": "In each step, two images will be displayed. Your task is to select:",
+  "introBullet1": "which image looks better,",
+  "introBullet2": "or whether they appear approximately equal.",
+  "introParagraph3": "The evaluations are completely anonymous. You do not need to complete all evaluations or all comparisons within them. You may stop the evaluation at any time and return later.",
+
+  "pixelArtistText": "Are you familiar with pixel art or have experience creating it?",
+  "isPixelArtist": "Yes",
+  "isNotPixelArtist": "No",
+
+  "deadlineTitle": "Submission Deadline",
+  "deadlineText": "I would greatly appreciate completing the evaluation before May 13, 2026, so the results can be included in my master's thesis.",
+
+  "evaluationSelection": "Evaluation Selection",
+  "evaluation1": "Evaluation 1: Basic Methods",
+  "evaluation2": "Evaluation 2: Color Reduction",
+  "evaluation3": "Evaluation 3: Method Comparison",
+
+  "footerText": "Tomáš Kurtin · FIT VUT · Master's Thesis 2026",
+  "footerMail": "xkurti03@stud.fit.vut.cz",
+
+  "back": "Back",
+  "evaluationTitle": "Evaluation",
+
+  "evaluationInstruction": "Select the image that looks better to you.",
+
+  "referenceImage": "Original Image",
+
+  "leftBetter": "Left is better",
+  "rightBetter": "Right is better",
+  "topBetter": "Top is better",
+  "bottomBetter": "Bottom is better",
+  "same": "About the same",
+
+  "finished": "Evaluation Complete",
+  "thanks": "Thank you for participating in the evaluation.",
+  "backToMainPage": "Back to Main Page",
+
+  "noMorePairs": "No more comparisons available."
+}

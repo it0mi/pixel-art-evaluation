@@ -1,0 +1,164 @@
+@charset "UTF-8";
+/**
+  * Author: Tomáš Kurtin (xkurti03@stud.fit.vut.cz)
+  * Date: 6 May 2026
+  * Description: Style for index.html and test.html
+  */
+/*
+* Global
+*/
+@media (max-width: 768px) {
+  body {
+    padding-bottom: 3rem;
+  }
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer small {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-align: center;
+  }
+}
+
+/*
+* Index.html
+*/
+/* is user pixel artist section*/
+#pixelArtist-section {
+  margin-bottom: 0.8rem;
+}
+
+#pixelArtistsButtons {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.selected-button {
+  background-color: var(--pico-form-element-valid-border-color);
+  border-color: var(--pico-form-element-valid-border-color);
+}
+
+/*
+* Test.html
+*/
+/* Reference image */
+#reference-section {
+  margin: 0;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+#reference-image,
+.comparison-card img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  box-sizing: border-box;
+}
+
+#reference-image {
+  width: 100%;
+  max-width: 220px;
+  max-height: 10vh;
+}
+@media (max-width: 768px) {
+  #reference-image {
+    max-width: 160px;
+    max-height: 12vh;
+  }
+}
+
+/* Pair of images */
+#comparison-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+@media (max-width: 768px) {
+  #comparison-container {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+}
+
+.comparison-card {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+.comparison-card img {
+  height: 40vh;
+  image-rendering: pixelated;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  -webkit-user-drag: none;
+}
+@media (max-width: 768px) {
+  .comparison-card img {
+    height: 30vh;
+    max-height: 35vh;
+  }
+}
+
+/* Controls section */
+#controls {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 2rem;
+}
+@media (max-width: 768px) {
+  #controls {
+    gap: 0.75rem;
+    grid-template-columns: 1fr;
+  }
+}
+#controls button {
+  font-size: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+@media (max-width: 768px) {
+  #controls button {
+    min-height: 4.5rem;
+  }
+  #controls button div {
+    font-size: 1.5rem;
+  }
+}
+
+.key-hint {
+  opacity: 70%;
+}
+
+.key-hint-hidden {
+  display: none;
+}
+
+/* Counter */
+#counter {
+  opacity: 0.7;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,11 @@
+{
+  "runnable_from_root": true,
+  "input_root_dir": "web/results",
+  "methods": ["piaResize", "resizeReduce"],
+  "default_color_limit": 10,
+  "color_limit_enabled": false,
+  "output_file": "web/pairs/colorReduction.json",
+  "image_extensions": [".png"],
+  "shuffle_pairs": true,
+  "shuffle_left_right": true
+}

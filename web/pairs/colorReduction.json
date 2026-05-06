@@ -1,0 +1,4482 @@
+[
+  {
+    "pair_id": 0,
+    "left_image": "results/resizeReduce/5/256/16.png",
+    "right_image": "results/piaResize/5/256/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 1,
+    "left_image": "results/resizeReduce/2/256/33.png",
+    "right_image": "results/piaResize/2/256/33.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 2,
+    "left_image": "results/piaResize/5/256/17.png",
+    "right_image": "results/resizeReduce/5/256/17.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 3,
+    "left_image": "results/piaResize/2/256/0.png",
+    "right_image": "results/resizeReduce/2/256/0.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 4,
+    "left_image": "results/resizeReduce/2/64/21.png",
+    "right_image": "results/piaResize/2/64/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 5,
+    "left_image": "results/resizeReduce/20/128/7.png",
+    "right_image": "results/piaResize/20/128/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 6,
+    "left_image": "results/piaResize/2/256/9.png",
+    "right_image": "results/resizeReduce/2/256/9.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 7,
+    "left_image": "results/piaResize/5/128/14.png",
+    "right_image": "results/resizeReduce/5/128/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 8,
+    "left_image": "results/resizeReduce/20/128/16.png",
+    "right_image": "results/piaResize/20/128/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 9,
+    "left_image": "results/piaResize/2/128/32.png",
+    "right_image": "results/resizeReduce/2/128/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 10,
+    "left_image": "results/resizeReduce/10/32/3.png",
+    "right_image": "results/piaResize/10/32/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 11,
+    "left_image": "results/piaResize/2/32/21.png",
+    "right_image": "results/resizeReduce/2/32/21.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 12,
+    "left_image": "results/resizeReduce/2/256/17.png",
+    "right_image": "results/piaResize/2/256/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 13,
+    "left_image": "results/piaResize/20/32/12.png",
+    "right_image": "results/resizeReduce/20/32/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 14,
+    "left_image": "results/resizeReduce/5/64/23.png",
+    "right_image": "results/piaResize/5/64/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 15,
+    "left_image": "results/resizeReduce/20/256/34.png",
+    "right_image": "results/piaResize/20/256/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 16,
+    "left_image": "results/piaResize/20/256/33.png",
+    "right_image": "results/resizeReduce/20/256/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 17,
+    "left_image": "results/piaResize/5/256/7.png",
+    "right_image": "results/resizeReduce/5/256/7.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 18,
+    "left_image": "results/piaResize/2/32/0.png",
+    "right_image": "results/resizeReduce/2/32/0.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 19,
+    "left_image": "results/piaResize/20/32/26.png",
+    "right_image": "results/resizeReduce/20/32/26.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 20,
+    "left_image": "results/resizeReduce/2/256/38.png",
+    "right_image": "results/piaResize/2/256/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 21,
+    "left_image": "results/piaResize/5/256/14.png",
+    "right_image": "results/resizeReduce/5/256/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 22,
+    "left_image": "results/piaResize/5/128/5.png",
+    "right_image": "results/resizeReduce/5/128/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 23,
+    "left_image": "results/piaResize/2/64/24.png",
+    "right_image": "results/resizeReduce/2/64/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 24,
+    "left_image": "results/resizeReduce/10/256/4.png",
+    "right_image": "results/piaResize/10/256/4.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 25,
+    "left_image": "results/resizeReduce/5/256/23.png",
+    "right_image": "results/piaResize/5/256/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 26,
+    "left_image": "results/resizeReduce/20/32/37.png",
+    "right_image": "results/piaResize/20/32/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 27,
+    "left_image": "results/resizeReduce/2/128/20.png",
+    "right_image": "results/piaResize/2/128/20.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 28,
+    "left_image": "results/resizeReduce/5/64/15.png",
+    "right_image": "results/piaResize/5/64/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 29,
+    "left_image": "results/resizeReduce/5/128/7.png",
+    "right_image": "results/piaResize/5/128/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 30,
+    "left_image": "results/resizeReduce/2/256/13.png",
+    "right_image": "results/piaResize/2/256/13.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 31,
+    "left_image": "results/resizeReduce/5/128/31.png",
+    "right_image": "results/piaResize/5/128/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 32,
+    "left_image": "results/resizeReduce/20/64/22.png",
+    "right_image": "results/piaResize/20/64/22.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 33,
+    "left_image": "results/resizeReduce/5/64/21.png",
+    "right_image": "results/piaResize/5/64/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 34,
+    "left_image": "results/piaResize/10/128/1.png",
+    "right_image": "results/resizeReduce/10/128/1.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 35,
+    "left_image": "results/resizeReduce/5/64/5.png",
+    "right_image": "results/piaResize/5/64/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 36,
+    "left_image": "results/resizeReduce/2/32/11.png",
+    "right_image": "results/piaResize/2/32/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 37,
+    "left_image": "results/resizeReduce/2/32/9.png",
+    "right_image": "results/piaResize/2/32/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 38,
+    "left_image": "results/resizeReduce/5/64/8.png",
+    "right_image": "results/piaResize/5/64/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 39,
+    "left_image": "results/resizeReduce/2/128/24.png",
+    "right_image": "results/piaResize/2/128/24.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 40,
+    "left_image": "results/piaResize/20/64/7.png",
+    "right_image": "results/resizeReduce/20/64/7.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 41,
+    "left_image": "results/resizeReduce/5/256/30.png",
+    "right_image": "results/piaResize/5/256/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 42,
+    "left_image": "results/piaResize/2/64/5.png",
+    "right_image": "results/resizeReduce/2/64/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 43,
+    "left_image": "results/resizeReduce/20/128/3.png",
+    "right_image": "results/piaResize/20/128/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 44,
+    "left_image": "results/piaResize/10/256/19.png",
+    "right_image": "results/resizeReduce/10/256/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 45,
+    "left_image": "results/piaResize/20/64/23.png",
+    "right_image": "results/resizeReduce/20/64/23.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 46,
+    "left_image": "results/resizeReduce/5/64/26.png",
+    "right_image": "results/piaResize/5/64/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 47,
+    "left_image": "results/resizeReduce/20/128/6.png",
+    "right_image": "results/piaResize/20/128/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 48,
+    "left_image": "results/piaResize/20/32/15.png",
+    "right_image": "results/resizeReduce/20/32/15.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 49,
+    "left_image": "results/resizeReduce/2/256/2.png",
+    "right_image": "results/piaResize/2/256/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 50,
+    "left_image": "results/resizeReduce/5/32/16.png",
+    "right_image": "results/piaResize/5/32/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 51,
+    "left_image": "results/resizeReduce/2/256/7.png",
+    "right_image": "results/piaResize/2/256/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 52,
+    "left_image": "results/resizeReduce/5/128/28.png",
+    "right_image": "results/piaResize/5/128/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 53,
+    "left_image": "results/piaResize/10/32/34.png",
+    "right_image": "results/resizeReduce/10/32/34.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 54,
+    "left_image": "results/resizeReduce/20/32/23.png",
+    "right_image": "results/piaResize/20/32/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 55,
+    "left_image": "results/resizeReduce/2/32/38.png",
+    "right_image": "results/piaResize/2/32/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 56,
+    "left_image": "results/piaResize/20/256/22.png",
+    "right_image": "results/resizeReduce/20/256/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 57,
+    "left_image": "results/piaResize/2/128/10.png",
+    "right_image": "results/resizeReduce/2/128/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 58,
+    "left_image": "results/piaResize/10/256/9.png",
+    "right_image": "results/resizeReduce/10/256/9.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 59,
+    "left_image": "results/resizeReduce/10/32/5.png",
+    "right_image": "results/piaResize/10/32/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 60,
+    "left_image": "results/resizeReduce/2/128/26.png",
+    "right_image": "results/piaResize/2/128/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 61,
+    "left_image": "results/resizeReduce/2/64/7.png",
+    "right_image": "results/piaResize/2/64/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 62,
+    "left_image": "results/piaResize/20/64/1.png",
+    "right_image": "results/resizeReduce/20/64/1.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 63,
+    "left_image": "results/piaResize/2/32/30.png",
+    "right_image": "results/resizeReduce/2/32/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 64,
+    "left_image": "results/resizeReduce/5/128/15.png",
+    "right_image": "results/piaResize/5/128/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 65,
+    "left_image": "results/resizeReduce/2/128/38.png",
+    "right_image": "results/piaResize/2/128/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 66,
+    "left_image": "results/resizeReduce/10/128/34.png",
+    "right_image": "results/piaResize/10/128/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 67,
+    "left_image": "results/piaResize/2/128/27.png",
+    "right_image": "results/resizeReduce/2/128/27.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 68,
+    "left_image": "results/piaResize/2/256/24.png",
+    "right_image": "results/resizeReduce/2/256/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 69,
+    "left_image": "results/resizeReduce/10/64/35.png",
+    "right_image": "results/piaResize/10/64/35.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 70,
+    "left_image": "results/resizeReduce/10/256/38.png",
+    "right_image": "results/piaResize/10/256/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 71,
+    "left_image": "results/resizeReduce/10/128/6.png",
+    "right_image": "results/piaResize/10/128/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 72,
+    "left_image": "results/resizeReduce/2/32/3.png",
+    "right_image": "results/piaResize/2/32/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 73,
+    "left_image": "results/piaResize/10/64/28.png",
+    "right_image": "results/resizeReduce/10/64/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 74,
+    "left_image": "results/resizeReduce/5/128/35.png",
+    "right_image": "results/piaResize/5/128/35.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 75,
+    "left_image": "results/resizeReduce/2/128/3.png",
+    "right_image": "results/piaResize/2/128/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 76,
+    "left_image": "results/piaResize/20/64/30.png",
+    "right_image": "results/resizeReduce/20/64/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 77,
+    "left_image": "results/resizeReduce/5/64/11.png",
+    "right_image": "results/piaResize/5/64/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 78,
+    "left_image": "results/resizeReduce/2/128/17.png",
+    "right_image": "results/piaResize/2/128/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 79,
+    "left_image": "results/piaResize/5/256/6.png",
+    "right_image": "results/resizeReduce/5/256/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 80,
+    "left_image": "results/piaResize/20/64/9.png",
+    "right_image": "results/resizeReduce/20/64/9.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 81,
+    "left_image": "results/piaResize/2/64/14.png",
+    "right_image": "results/resizeReduce/2/64/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 82,
+    "left_image": "results/resizeReduce/10/64/24.png",
+    "right_image": "results/piaResize/10/64/24.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 83,
+    "left_image": "results/resizeReduce/10/256/7.png",
+    "right_image": "results/piaResize/10/256/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 84,
+    "left_image": "results/piaResize/5/32/19.png",
+    "right_image": "results/resizeReduce/5/32/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 85,
+    "left_image": "results/resizeReduce/20/64/31.png",
+    "right_image": "results/piaResize/20/64/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 86,
+    "left_image": "results/piaResize/10/32/4.png",
+    "right_image": "results/resizeReduce/10/32/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 87,
+    "left_image": "results/piaResize/2/128/5.png",
+    "right_image": "results/resizeReduce/2/128/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 88,
+    "left_image": "results/resizeReduce/10/256/11.png",
+    "right_image": "results/piaResize/10/256/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 89,
+    "left_image": "results/resizeReduce/5/32/7.png",
+    "right_image": "results/piaResize/5/32/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 90,
+    "left_image": "results/piaResize/10/64/2.png",
+    "right_image": "results/resizeReduce/10/64/2.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 91,
+    "left_image": "results/resizeReduce/2/64/38.png",
+    "right_image": "results/piaResize/2/64/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 92,
+    "left_image": "results/resizeReduce/10/64/37.png",
+    "right_image": "results/piaResize/10/64/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 93,
+    "left_image": "results/resizeReduce/2/256/15.png",
+    "right_image": "results/piaResize/2/256/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 94,
+    "left_image": "results/piaResize/10/128/26.png",
+    "right_image": "results/resizeReduce/10/128/26.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 95,
+    "left_image": "results/piaResize/20/128/38.png",
+    "right_image": "results/resizeReduce/20/128/38.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 96,
+    "left_image": "results/resizeReduce/2/256/4.png",
+    "right_image": "results/piaResize/2/256/4.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 97,
+    "left_image": "results/resizeReduce/20/64/6.png",
+    "right_image": "results/piaResize/20/64/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 98,
+    "left_image": "results/resizeReduce/5/64/9.png",
+    "right_image": "results/piaResize/5/64/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 99,
+    "left_image": "results/piaResize/10/256/33.png",
+    "right_image": "results/resizeReduce/10/256/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 100,
+    "left_image": "results/piaResize/5/64/17.png",
+    "right_image": "results/resizeReduce/5/64/17.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 101,
+    "left_image": "results/resizeReduce/20/64/11.png",
+    "right_image": "results/piaResize/20/64/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 102,
+    "left_image": "results/resizeReduce/2/64/33.png",
+    "right_image": "results/piaResize/2/64/33.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 103,
+    "left_image": "results/piaResize/20/64/39.png",
+    "right_image": "results/resizeReduce/20/64/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 104,
+    "left_image": "results/resizeReduce/10/64/31.png",
+    "right_image": "results/piaResize/10/64/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 105,
+    "left_image": "results/piaResize/20/256/25.png",
+    "right_image": "results/resizeReduce/20/256/25.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 106,
+    "left_image": "results/resizeReduce/5/64/16.png",
+    "right_image": "results/piaResize/5/64/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 107,
+    "left_image": "results/piaResize/20/64/16.png",
+    "right_image": "results/resizeReduce/20/64/16.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 108,
+    "left_image": "results/piaResize/20/64/34.png",
+    "right_image": "results/resizeReduce/20/64/34.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 109,
+    "left_image": "results/piaResize/2/128/11.png",
+    "right_image": "results/resizeReduce/2/128/11.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 110,
+    "left_image": "results/piaResize/10/32/30.png",
+    "right_image": "results/resizeReduce/10/32/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 111,
+    "left_image": "results/piaResize/20/256/35.png",
+    "right_image": "results/resizeReduce/20/256/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 112,
+    "left_image": "results/resizeReduce/2/32/10.png",
+    "right_image": "results/piaResize/2/32/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 113,
+    "left_image": "results/piaResize/2/128/30.png",
+    "right_image": "results/resizeReduce/2/128/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 114,
+    "left_image": "results/resizeReduce/5/128/16.png",
+    "right_image": "results/piaResize/5/128/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 115,
+    "left_image": "results/piaResize/5/256/27.png",
+    "right_image": "results/resizeReduce/5/256/27.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 116,
+    "left_image": "results/piaResize/20/128/5.png",
+    "right_image": "results/resizeReduce/20/128/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 117,
+    "left_image": "results/resizeReduce/20/256/27.png",
+    "right_image": "results/piaResize/20/256/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 118,
+    "left_image": "results/piaResize/10/64/29.png",
+    "right_image": "results/resizeReduce/10/64/29.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 119,
+    "left_image": "results/piaResize/20/128/14.png",
+    "right_image": "results/resizeReduce/20/128/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 120,
+    "left_image": "results/piaResize/10/64/30.png",
+    "right_image": "results/resizeReduce/10/64/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 121,
+    "left_image": "results/resizeReduce/20/64/10.png",
+    "right_image": "results/piaResize/20/64/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 122,
+    "left_image": "results/piaResize/5/32/36.png",
+    "right_image": "results/resizeReduce/5/32/36.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 123,
+    "left_image": "results/resizeReduce/2/128/14.png",
+    "right_image": "results/piaResize/2/128/14.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 124,
+    "left_image": "results/piaResize/10/32/6.png",
+    "right_image": "results/resizeReduce/10/32/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 125,
+    "left_image": "results/piaResize/5/64/6.png",
+    "right_image": "results/resizeReduce/5/64/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 126,
+    "left_image": "results/piaResize/10/32/19.png",
+    "right_image": "results/resizeReduce/10/32/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 127,
+    "left_image": "results/piaResize/5/64/31.png",
+    "right_image": "results/resizeReduce/5/64/31.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 128,
+    "left_image": "results/resizeReduce/10/256/29.png",
+    "right_image": "results/piaResize/10/256/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 129,
+    "left_image": "results/piaResize/20/64/4.png",
+    "right_image": "results/resizeReduce/20/64/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 130,
+    "left_image": "results/resizeReduce/5/32/39.png",
+    "right_image": "results/piaResize/5/32/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 131,
+    "left_image": "results/resizeReduce/5/128/21.png",
+    "right_image": "results/piaResize/5/128/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 132,
+    "left_image": "results/resizeReduce/5/128/11.png",
+    "right_image": "results/piaResize/5/128/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 133,
+    "left_image": "results/resizeReduce/20/256/36.png",
+    "right_image": "results/piaResize/20/256/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 134,
+    "left_image": "results/piaResize/2/64/37.png",
+    "right_image": "results/resizeReduce/2/64/37.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 135,
+    "left_image": "results/piaResize/5/128/1.png",
+    "right_image": "results/resizeReduce/5/128/1.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 136,
+    "left_image": "results/resizeReduce/2/32/37.png",
+    "right_image": "results/piaResize/2/32/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 137,
+    "left_image": "results/piaResize/5/128/23.png",
+    "right_image": "results/resizeReduce/5/128/23.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 138,
+    "left_image": "results/piaResize/10/128/12.png",
+    "right_image": "results/resizeReduce/10/128/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 139,
+    "left_image": "results/resizeReduce/20/32/6.png",
+    "right_image": "results/piaResize/20/32/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 140,
+    "left_image": "results/piaResize/20/32/13.png",
+    "right_image": "results/resizeReduce/20/32/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 141,
+    "left_image": "results/resizeReduce/5/128/37.png",
+    "right_image": "results/piaResize/5/128/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 142,
+    "left_image": "results/piaResize/20/128/29.png",
+    "right_image": "results/resizeReduce/20/128/29.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 143,
+    "left_image": "results/piaResize/2/64/35.png",
+    "right_image": "results/resizeReduce/2/64/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 144,
+    "left_image": "results/resizeReduce/2/256/31.png",
+    "right_image": "results/piaResize/2/256/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 145,
+    "left_image": "results/piaResize/10/128/39.png",
+    "right_image": "results/resizeReduce/10/128/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 146,
+    "left_image": "results/piaResize/10/128/32.png",
+    "right_image": "results/resizeReduce/10/128/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 147,
+    "left_image": "results/resizeReduce/20/32/11.png",
+    "right_image": "results/piaResize/20/32/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 148,
+    "left_image": "results/piaResize/5/32/34.png",
+    "right_image": "results/resizeReduce/5/32/34.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 149,
+    "left_image": "results/resizeReduce/2/256/11.png",
+    "right_image": "results/piaResize/2/256/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 150,
+    "left_image": "results/piaResize/2/256/12.png",
+    "right_image": "results/resizeReduce/2/256/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 151,
+    "left_image": "results/resizeReduce/20/32/19.png",
+    "right_image": "results/piaResize/20/32/19.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 152,
+    "left_image": "results/resizeReduce/2/32/4.png",
+    "right_image": "results/piaResize/2/32/4.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 153,
+    "left_image": "results/resizeReduce/20/32/34.png",
+    "right_image": "results/piaResize/20/32/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 154,
+    "left_image": "results/resizeReduce/20/64/21.png",
+    "right_image": "results/piaResize/20/64/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 155,
+    "left_image": "results/piaResize/5/32/8.png",
+    "right_image": "results/resizeReduce/5/32/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 156,
+    "left_image": "results/resizeReduce/20/64/13.png",
+    "right_image": "results/piaResize/20/64/13.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 157,
+    "left_image": "results/piaResize/10/128/28.png",
+    "right_image": "results/resizeReduce/10/128/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 158,
+    "left_image": "results/piaResize/10/256/0.png",
+    "right_image": "results/resizeReduce/10/256/0.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 159,
+    "left_image": "results/piaResize/2/128/35.png",
+    "right_image": "results/resizeReduce/2/128/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 160,
+    "left_image": "results/resizeReduce/5/32/21.png",
+    "right_image": "results/piaResize/5/32/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 161,
+    "left_image": "results/resizeReduce/2/256/25.png",
+    "right_image": "results/piaResize/2/256/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 162,
+    "left_image": "results/resizeReduce/5/128/25.png",
+    "right_image": "results/piaResize/5/128/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 163,
+    "left_image": "results/piaResize/10/64/1.png",
+    "right_image": "results/resizeReduce/10/64/1.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 164,
+    "left_image": "results/resizeReduce/2/64/0.png",
+    "right_image": "results/piaResize/2/64/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 165,
+    "left_image": "results/piaResize/5/32/18.png",
+    "right_image": "results/resizeReduce/5/32/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 166,
+    "left_image": "results/resizeReduce/10/256/36.png",
+    "right_image": "results/piaResize/10/256/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 167,
+    "left_image": "results/resizeReduce/20/32/9.png",
+    "right_image": "results/piaResize/20/32/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 168,
+    "left_image": "results/resizeReduce/5/64/18.png",
+    "right_image": "results/piaResize/5/64/18.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 169,
+    "left_image": "results/resizeReduce/10/32/37.png",
+    "right_image": "results/piaResize/10/32/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 170,
+    "left_image": "results/piaResize/5/64/20.png",
+    "right_image": "results/resizeReduce/5/64/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 171,
+    "left_image": "results/resizeReduce/5/64/13.png",
+    "right_image": "results/piaResize/5/64/13.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 172,
+    "left_image": "results/resizeReduce/10/128/24.png",
+    "right_image": "results/piaResize/10/128/24.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 173,
+    "left_image": "results/resizeReduce/5/128/0.png",
+    "right_image": "results/piaResize/5/128/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 174,
+    "left_image": "results/piaResize/10/256/14.png",
+    "right_image": "results/resizeReduce/10/256/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 175,
+    "left_image": "results/resizeReduce/20/128/36.png",
+    "right_image": "results/piaResize/20/128/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 176,
+    "left_image": "results/piaResize/2/64/32.png",
+    "right_image": "results/resizeReduce/2/64/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 177,
+    "left_image": "results/resizeReduce/20/32/36.png",
+    "right_image": "results/piaResize/20/32/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 178,
+    "left_image": "results/resizeReduce/2/256/34.png",
+    "right_image": "results/piaResize/2/256/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 179,
+    "left_image": "results/resizeReduce/10/256/10.png",
+    "right_image": "results/piaResize/10/256/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 180,
+    "left_image": "results/resizeReduce/2/256/29.png",
+    "right_image": "results/piaResize/2/256/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 181,
+    "left_image": "results/piaResize/5/128/29.png",
+    "right_image": "results/resizeReduce/5/128/29.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 182,
+    "left_image": "results/piaResize/10/256/21.png",
+    "right_image": "results/resizeReduce/10/256/21.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 183,
+    "left_image": "results/resizeReduce/2/64/28.png",
+    "right_image": "results/piaResize/2/64/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 184,
+    "left_image": "results/resizeReduce/10/32/29.png",
+    "right_image": "results/piaResize/10/32/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 185,
+    "left_image": "results/resizeReduce/5/32/2.png",
+    "right_image": "results/piaResize/5/32/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 186,
+    "left_image": "results/piaResize/2/256/22.png",
+    "right_image": "results/resizeReduce/2/256/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 187,
+    "left_image": "results/resizeReduce/10/64/5.png",
+    "right_image": "results/piaResize/10/64/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 188,
+    "left_image": "results/resizeReduce/10/32/8.png",
+    "right_image": "results/piaResize/10/32/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 189,
+    "left_image": "results/piaResize/10/256/6.png",
+    "right_image": "results/resizeReduce/10/256/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 190,
+    "left_image": "results/piaResize/20/256/7.png",
+    "right_image": "results/resizeReduce/20/256/7.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 191,
+    "left_image": "results/piaResize/5/256/34.png",
+    "right_image": "results/resizeReduce/5/256/34.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 192,
+    "left_image": "results/piaResize/5/32/24.png",
+    "right_image": "results/resizeReduce/5/32/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 193,
+    "left_image": "results/resizeReduce/20/32/38.png",
+    "right_image": "results/piaResize/20/32/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 194,
+    "left_image": "results/resizeReduce/5/32/17.png",
+    "right_image": "results/piaResize/5/32/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 195,
+    "left_image": "results/piaResize/5/64/19.png",
+    "right_image": "results/resizeReduce/5/64/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 196,
+    "left_image": "results/piaResize/20/256/38.png",
+    "right_image": "results/resizeReduce/20/256/38.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 197,
+    "left_image": "results/resizeReduce/10/64/36.png",
+    "right_image": "results/piaResize/10/64/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 198,
+    "left_image": "results/resizeReduce/20/128/25.png",
+    "right_image": "results/piaResize/20/128/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 199,
+    "left_image": "results/resizeReduce/10/64/15.png",
+    "right_image": "results/piaResize/10/64/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 200,
+    "left_image": "results/piaResize/2/128/13.png",
+    "right_image": "results/resizeReduce/2/128/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 201,
+    "left_image": "results/resizeReduce/10/32/20.png",
+    "right_image": "results/piaResize/10/32/20.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 202,
+    "left_image": "results/resizeReduce/20/128/28.png",
+    "right_image": "results/piaResize/20/128/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 203,
+    "left_image": "results/piaResize/20/64/35.png",
+    "right_image": "results/resizeReduce/20/64/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 204,
+    "left_image": "results/resizeReduce/10/64/21.png",
+    "right_image": "results/piaResize/10/64/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 205,
+    "left_image": "results/resizeReduce/20/128/9.png",
+    "right_image": "results/piaResize/20/128/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 206,
+    "left_image": "results/resizeReduce/5/64/33.png",
+    "right_image": "results/piaResize/5/64/33.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 207,
+    "left_image": "results/resizeReduce/5/128/6.png",
+    "right_image": "results/piaResize/5/128/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 208,
+    "left_image": "results/resizeReduce/5/64/7.png",
+    "right_image": "results/piaResize/5/64/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 209,
+    "left_image": "results/resizeReduce/2/256/26.png",
+    "right_image": "results/piaResize/2/256/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 210,
+    "left_image": "results/resizeReduce/10/32/10.png",
+    "right_image": "results/piaResize/10/32/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 211,
+    "left_image": "results/resizeReduce/5/128/32.png",
+    "right_image": "results/piaResize/5/128/32.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 212,
+    "left_image": "results/resizeReduce/5/64/27.png",
+    "right_image": "results/piaResize/5/64/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 213,
+    "left_image": "results/piaResize/5/32/12.png",
+    "right_image": "results/resizeReduce/5/32/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 214,
+    "left_image": "results/piaResize/2/32/18.png",
+    "right_image": "results/resizeReduce/2/32/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 215,
+    "left_image": "results/resizeReduce/10/64/14.png",
+    "right_image": "results/piaResize/10/64/14.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 216,
+    "left_image": "results/piaResize/2/64/12.png",
+    "right_image": "results/resizeReduce/2/64/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 217,
+    "left_image": "results/resizeReduce/2/64/11.png",
+    "right_image": "results/piaResize/2/64/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 218,
+    "left_image": "results/resizeReduce/2/128/29.png",
+    "right_image": "results/piaResize/2/128/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 219,
+    "left_image": "results/piaResize/20/64/3.png",
+    "right_image": "results/resizeReduce/20/64/3.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 220,
+    "left_image": "results/resizeReduce/5/32/11.png",
+    "right_image": "results/piaResize/5/32/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 221,
+    "left_image": "results/resizeReduce/2/64/16.png",
+    "right_image": "results/piaResize/2/64/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 222,
+    "left_image": "results/piaResize/5/64/2.png",
+    "right_image": "results/resizeReduce/5/64/2.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 223,
+    "left_image": "results/piaResize/20/256/16.png",
+    "right_image": "results/resizeReduce/20/256/16.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 224,
+    "left_image": "results/piaResize/20/256/21.png",
+    "right_image": "results/resizeReduce/20/256/21.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 225,
+    "left_image": "results/piaResize/20/32/29.png",
+    "right_image": "results/resizeReduce/20/32/29.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 226,
+    "left_image": "results/piaResize/2/256/18.png",
+    "right_image": "results/resizeReduce/2/256/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 227,
+    "left_image": "results/piaResize/10/256/18.png",
+    "right_image": "results/resizeReduce/10/256/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 228,
+    "left_image": "results/piaResize/5/128/12.png",
+    "right_image": "results/resizeReduce/5/128/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 229,
+    "left_image": "results/resizeReduce/5/256/1.png",
+    "right_image": "results/piaResize/5/256/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 230,
+    "left_image": "results/piaResize/10/256/15.png",
+    "right_image": "results/resizeReduce/10/256/15.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 231,
+    "left_image": "results/piaResize/10/64/19.png",
+    "right_image": "results/resizeReduce/10/64/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 232,
+    "left_image": "results/piaResize/2/256/20.png",
+    "right_image": "results/resizeReduce/2/256/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 233,
+    "left_image": "results/piaResize/20/64/0.png",
+    "right_image": "results/resizeReduce/20/64/0.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 234,
+    "left_image": "results/resizeReduce/5/32/20.png",
+    "right_image": "results/piaResize/5/32/20.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 235,
+    "left_image": "results/resizeReduce/10/128/22.png",
+    "right_image": "results/piaResize/10/128/22.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 236,
+    "left_image": "results/piaResize/20/128/20.png",
+    "right_image": "results/resizeReduce/20/128/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 237,
+    "left_image": "results/piaResize/20/128/33.png",
+    "right_image": "results/resizeReduce/20/128/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 238,
+    "left_image": "results/resizeReduce/10/256/34.png",
+    "right_image": "results/piaResize/10/256/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 239,
+    "left_image": "results/resizeReduce/20/128/11.png",
+    "right_image": "results/piaResize/20/128/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 240,
+    "left_image": "results/resizeReduce/5/128/30.png",
+    "right_image": "results/piaResize/5/128/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 241,
+    "left_image": "results/resizeReduce/5/128/18.png",
+    "right_image": "results/piaResize/5/128/18.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 242,
+    "left_image": "results/piaResize/5/128/8.png",
+    "right_image": "results/resizeReduce/5/128/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 243,
+    "left_image": "results/resizeReduce/5/256/18.png",
+    "right_image": "results/piaResize/5/256/18.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 244,
+    "left_image": "results/resizeReduce/5/256/9.png",
+    "right_image": "results/piaResize/5/256/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 245,
+    "left_image": "results/resizeReduce/10/64/13.png",
+    "right_image": "results/piaResize/10/64/13.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 246,
+    "left_image": "results/piaResize/2/128/9.png",
+    "right_image": "results/resizeReduce/2/128/9.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 247,
+    "left_image": "results/piaResize/20/64/38.png",
+    "right_image": "results/resizeReduce/20/64/38.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 248,
+    "left_image": "results/piaResize/10/64/9.png",
+    "right_image": "results/resizeReduce/10/64/9.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 249,
+    "left_image": "results/resizeReduce/20/128/1.png",
+    "right_image": "results/piaResize/20/128/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 250,
+    "left_image": "results/resizeReduce/20/256/32.png",
+    "right_image": "results/piaResize/20/256/32.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 251,
+    "left_image": "results/resizeReduce/10/256/3.png",
+    "right_image": "results/piaResize/10/256/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 252,
+    "left_image": "results/piaResize/20/64/36.png",
+    "right_image": "results/resizeReduce/20/64/36.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 253,
+    "left_image": "results/resizeReduce/10/64/3.png",
+    "right_image": "results/piaResize/10/64/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 254,
+    "left_image": "results/piaResize/5/256/4.png",
+    "right_image": "results/resizeReduce/5/256/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 255,
+    "left_image": "results/resizeReduce/2/128/23.png",
+    "right_image": "results/piaResize/2/128/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 256,
+    "left_image": "results/resizeReduce/2/128/2.png",
+    "right_image": "results/piaResize/2/128/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 257,
+    "left_image": "results/piaResize/20/64/19.png",
+    "right_image": "results/resizeReduce/20/64/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 258,
+    "left_image": "results/resizeReduce/2/128/16.png",
+    "right_image": "results/piaResize/2/128/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 259,
+    "left_image": "results/piaResize/20/256/13.png",
+    "right_image": "results/resizeReduce/20/256/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 260,
+    "left_image": "results/resizeReduce/5/32/27.png",
+    "right_image": "results/piaResize/5/32/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 261,
+    "left_image": "results/piaResize/10/128/2.png",
+    "right_image": "results/resizeReduce/10/128/2.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 262,
+    "left_image": "results/resizeReduce/10/128/25.png",
+    "right_image": "results/piaResize/10/128/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 263,
+    "left_image": "results/piaResize/2/128/8.png",
+    "right_image": "results/resizeReduce/2/128/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 264,
+    "left_image": "results/resizeReduce/10/64/6.png",
+    "right_image": "results/piaResize/10/64/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 265,
+    "left_image": "results/resizeReduce/20/128/13.png",
+    "right_image": "results/piaResize/20/128/13.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 266,
+    "left_image": "results/piaResize/2/256/14.png",
+    "right_image": "results/resizeReduce/2/256/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 267,
+    "left_image": "results/resizeReduce/5/256/39.png",
+    "right_image": "results/piaResize/5/256/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 268,
+    "left_image": "results/resizeReduce/20/256/0.png",
+    "right_image": "results/piaResize/20/256/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 269,
+    "left_image": "results/piaResize/2/256/28.png",
+    "right_image": "results/resizeReduce/2/256/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 270,
+    "left_image": "results/resizeReduce/20/32/25.png",
+    "right_image": "results/piaResize/20/32/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 271,
+    "left_image": "results/resizeReduce/10/64/0.png",
+    "right_image": "results/piaResize/10/64/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 272,
+    "left_image": "results/resizeReduce/10/128/19.png",
+    "right_image": "results/piaResize/10/128/19.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 273,
+    "left_image": "results/resizeReduce/10/256/12.png",
+    "right_image": "results/piaResize/10/256/12.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 274,
+    "left_image": "results/piaResize/2/128/7.png",
+    "right_image": "results/resizeReduce/2/128/7.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 275,
+    "left_image": "results/resizeReduce/20/128/18.png",
+    "right_image": "results/piaResize/20/128/18.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 276,
+    "left_image": "results/piaResize/10/32/21.png",
+    "right_image": "results/resizeReduce/10/32/21.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 277,
+    "left_image": "results/resizeReduce/5/32/22.png",
+    "right_image": "results/piaResize/5/32/22.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 278,
+    "left_image": "results/resizeReduce/10/32/0.png",
+    "right_image": "results/piaResize/10/32/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 279,
+    "left_image": "results/piaResize/2/32/12.png",
+    "right_image": "results/resizeReduce/2/32/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 280,
+    "left_image": "results/piaResize/20/256/37.png",
+    "right_image": "results/resizeReduce/20/256/37.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 281,
+    "left_image": "results/resizeReduce/10/32/16.png",
+    "right_image": "results/piaResize/10/32/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 282,
+    "left_image": "results/resizeReduce/10/64/10.png",
+    "right_image": "results/piaResize/10/64/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 283,
+    "left_image": "results/piaResize/5/64/32.png",
+    "right_image": "results/resizeReduce/5/64/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 284,
+    "left_image": "results/piaResize/2/256/35.png",
+    "right_image": "results/resizeReduce/2/256/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 285,
+    "left_image": "results/piaResize/20/256/15.png",
+    "right_image": "results/resizeReduce/20/256/15.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 286,
+    "left_image": "results/resizeReduce/2/64/39.png",
+    "right_image": "results/piaResize/2/64/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 287,
+    "left_image": "results/piaResize/2/64/36.png",
+    "right_image": "results/resizeReduce/2/64/36.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 288,
+    "left_image": "results/resizeReduce/20/64/25.png",
+    "right_image": "results/piaResize/20/64/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 289,
+    "left_image": "results/piaResize/20/64/24.png",
+    "right_image": "results/resizeReduce/20/64/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 290,
+    "left_image": "results/resizeReduce/10/256/31.png",
+    "right_image": "results/piaResize/10/256/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 291,
+    "left_image": "results/piaResize/10/64/8.png",
+    "right_image": "results/resizeReduce/10/64/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 292,
+    "left_image": "results/piaResize/5/128/39.png",
+    "right_image": "results/resizeReduce/5/128/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 293,
+    "left_image": "results/piaResize/20/32/35.png",
+    "right_image": "results/resizeReduce/20/32/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 294,
+    "left_image": "results/resizeReduce/5/128/27.png",
+    "right_image": "results/piaResize/5/128/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 295,
+    "left_image": "results/piaResize/10/32/7.png",
+    "right_image": "results/resizeReduce/10/32/7.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 296,
+    "left_image": "results/piaResize/20/32/3.png",
+    "right_image": "results/resizeReduce/20/32/3.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 297,
+    "left_image": "results/resizeReduce/10/64/38.png",
+    "right_image": "results/piaResize/10/64/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 298,
+    "left_image": "results/piaResize/2/128/31.png",
+    "right_image": "results/resizeReduce/2/128/31.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 299,
+    "left_image": "results/resizeReduce/2/64/15.png",
+    "right_image": "results/piaResize/2/64/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 300,
+    "left_image": "results/resizeReduce/20/128/8.png",
+    "right_image": "results/piaResize/20/128/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 301,
+    "left_image": "results/piaResize/2/128/1.png",
+    "right_image": "results/resizeReduce/2/128/1.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 302,
+    "left_image": "results/resizeReduce/2/128/25.png",
+    "right_image": "results/piaResize/2/128/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 303,
+    "left_image": "results/piaResize/2/64/30.png",
+    "right_image": "results/resizeReduce/2/64/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 304,
+    "left_image": "results/piaResize/2/32/23.png",
+    "right_image": "results/resizeReduce/2/32/23.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 305,
+    "left_image": "results/resizeReduce/10/256/32.png",
+    "right_image": "results/piaResize/10/256/32.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 306,
+    "left_image": "results/resizeReduce/10/32/35.png",
+    "right_image": "results/piaResize/10/32/35.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 307,
+    "left_image": "results/resizeReduce/5/32/35.png",
+    "right_image": "results/piaResize/5/32/35.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 308,
+    "left_image": "results/resizeReduce/10/64/17.png",
+    "right_image": "results/piaResize/10/64/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 309,
+    "left_image": "results/resizeReduce/20/256/14.png",
+    "right_image": "results/piaResize/20/256/14.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 310,
+    "left_image": "results/piaResize/5/256/33.png",
+    "right_image": "results/resizeReduce/5/256/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 311,
+    "left_image": "results/piaResize/5/128/22.png",
+    "right_image": "results/resizeReduce/5/128/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 312,
+    "left_image": "results/piaResize/5/256/8.png",
+    "right_image": "results/resizeReduce/5/256/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 313,
+    "left_image": "results/resizeReduce/10/128/21.png",
+    "right_image": "results/piaResize/10/128/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 314,
+    "left_image": "results/resizeReduce/10/64/34.png",
+    "right_image": "results/piaResize/10/64/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 315,
+    "left_image": "results/resizeReduce/2/32/28.png",
+    "right_image": "results/piaResize/2/32/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 316,
+    "left_image": "results/resizeReduce/2/256/27.png",
+    "right_image": "results/piaResize/2/256/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 317,
+    "left_image": "results/resizeReduce/2/64/25.png",
+    "right_image": "results/piaResize/2/64/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 318,
+    "left_image": "results/piaResize/5/256/37.png",
+    "right_image": "results/resizeReduce/5/256/37.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 319,
+    "left_image": "results/resizeReduce/10/256/27.png",
+    "right_image": "results/piaResize/10/256/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 320,
+    "left_image": "results/resizeReduce/10/128/11.png",
+    "right_image": "results/piaResize/10/128/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 321,
+    "left_image": "results/piaResize/10/256/13.png",
+    "right_image": "results/resizeReduce/10/256/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 322,
+    "left_image": "results/resizeReduce/5/256/5.png",
+    "right_image": "results/piaResize/5/256/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 323,
+    "left_image": "results/piaResize/5/32/15.png",
+    "right_image": "results/resizeReduce/5/32/15.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 324,
+    "left_image": "results/piaResize/10/32/24.png",
+    "right_image": "results/resizeReduce/10/32/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 325,
+    "left_image": "results/resizeReduce/10/32/31.png",
+    "right_image": "results/piaResize/10/32/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 326,
+    "left_image": "results/resizeReduce/20/32/5.png",
+    "right_image": "results/piaResize/20/32/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 327,
+    "left_image": "results/piaResize/20/64/14.png",
+    "right_image": "results/resizeReduce/20/64/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 328,
+    "left_image": "results/resizeReduce/20/256/26.png",
+    "right_image": "results/piaResize/20/256/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 329,
+    "left_image": "results/piaResize/2/128/28.png",
+    "right_image": "results/resizeReduce/2/128/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 330,
+    "left_image": "results/piaResize/10/256/20.png",
+    "right_image": "results/resizeReduce/10/256/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 331,
+    "left_image": "results/resizeReduce/5/256/19.png",
+    "right_image": "results/piaResize/5/256/19.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 332,
+    "left_image": "results/resizeReduce/20/128/30.png",
+    "right_image": "results/piaResize/20/128/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 333,
+    "left_image": "results/piaResize/5/128/2.png",
+    "right_image": "results/resizeReduce/5/128/2.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 334,
+    "left_image": "results/resizeReduce/2/128/15.png",
+    "right_image": "results/piaResize/2/128/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 335,
+    "left_image": "results/resizeReduce/5/256/29.png",
+    "right_image": "results/piaResize/5/256/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 336,
+    "left_image": "results/piaResize/20/32/16.png",
+    "right_image": "results/resizeReduce/20/32/16.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 337,
+    "left_image": "results/piaResize/20/64/32.png",
+    "right_image": "results/resizeReduce/20/64/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 338,
+    "left_image": "results/piaResize/10/32/11.png",
+    "right_image": "results/resizeReduce/10/32/11.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 339,
+    "left_image": "results/piaResize/20/256/17.png",
+    "right_image": "results/resizeReduce/20/256/17.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 340,
+    "left_image": "results/piaResize/10/32/1.png",
+    "right_image": "results/resizeReduce/10/32/1.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 341,
+    "left_image": "results/piaResize/2/32/20.png",
+    "right_image": "results/resizeReduce/2/32/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 342,
+    "left_image": "results/resizeReduce/5/256/15.png",
+    "right_image": "results/piaResize/5/256/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 343,
+    "left_image": "results/resizeReduce/2/32/15.png",
+    "right_image": "results/piaResize/2/32/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 344,
+    "left_image": "results/resizeReduce/10/256/1.png",
+    "right_image": "results/piaResize/10/256/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 345,
+    "left_image": "results/piaResize/5/32/25.png",
+    "right_image": "results/resizeReduce/5/32/25.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 346,
+    "left_image": "results/resizeReduce/2/64/22.png",
+    "right_image": "results/piaResize/2/64/22.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 347,
+    "left_image": "results/resizeReduce/10/128/3.png",
+    "right_image": "results/piaResize/10/128/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 348,
+    "left_image": "results/piaResize/2/64/19.png",
+    "right_image": "results/resizeReduce/2/64/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 349,
+    "left_image": "results/piaResize/5/128/10.png",
+    "right_image": "results/resizeReduce/5/128/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 350,
+    "left_image": "results/resizeReduce/20/256/6.png",
+    "right_image": "results/piaResize/20/256/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 351,
+    "left_image": "results/piaResize/20/32/8.png",
+    "right_image": "results/resizeReduce/20/32/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 352,
+    "left_image": "results/resizeReduce/10/128/14.png",
+    "right_image": "results/piaResize/10/128/14.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 353,
+    "left_image": "results/piaResize/10/32/36.png",
+    "right_image": "results/resizeReduce/10/32/36.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 354,
+    "left_image": "results/piaResize/20/128/37.png",
+    "right_image": "results/resizeReduce/20/128/37.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 355,
+    "left_image": "results/resizeReduce/20/32/1.png",
+    "right_image": "results/piaResize/20/32/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 356,
+    "left_image": "results/piaResize/2/256/16.png",
+    "right_image": "results/resizeReduce/2/256/16.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 357,
+    "left_image": "results/piaResize/5/256/32.png",
+    "right_image": "results/resizeReduce/5/256/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 358,
+    "left_image": "results/piaResize/10/128/15.png",
+    "right_image": "results/resizeReduce/10/128/15.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 359,
+    "left_image": "results/piaResize/10/128/27.png",
+    "right_image": "results/resizeReduce/10/128/27.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 360,
+    "left_image": "results/resizeReduce/20/64/2.png",
+    "right_image": "results/piaResize/20/64/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 361,
+    "left_image": "results/piaResize/2/32/5.png",
+    "right_image": "results/resizeReduce/2/32/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 362,
+    "left_image": "results/piaResize/5/128/20.png",
+    "right_image": "results/resizeReduce/5/128/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 363,
+    "left_image": "results/piaResize/20/128/22.png",
+    "right_image": "results/resizeReduce/20/128/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 364,
+    "left_image": "results/resizeReduce/2/64/8.png",
+    "right_image": "results/piaResize/2/64/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 365,
+    "left_image": "results/resizeReduce/2/128/36.png",
+    "right_image": "results/piaResize/2/128/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 366,
+    "left_image": "results/resizeReduce/5/64/34.png",
+    "right_image": "results/piaResize/5/64/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 367,
+    "left_image": "results/resizeReduce/2/32/29.png",
+    "right_image": "results/piaResize/2/32/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 368,
+    "left_image": "results/piaResize/10/128/7.png",
+    "right_image": "results/resizeReduce/10/128/7.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 369,
+    "left_image": "results/resizeReduce/10/32/28.png",
+    "right_image": "results/piaResize/10/32/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 370,
+    "left_image": "results/resizeReduce/20/128/12.png",
+    "right_image": "results/piaResize/20/128/12.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 371,
+    "left_image": "results/resizeReduce/20/64/8.png",
+    "right_image": "results/piaResize/20/64/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 372,
+    "left_image": "results/resizeReduce/10/128/29.png",
+    "right_image": "results/piaResize/10/128/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 373,
+    "left_image": "results/resizeReduce/5/128/4.png",
+    "right_image": "results/piaResize/5/128/4.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 374,
+    "left_image": "results/resizeReduce/20/64/29.png",
+    "right_image": "results/piaResize/20/64/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 375,
+    "left_image": "results/piaResize/20/128/10.png",
+    "right_image": "results/resizeReduce/20/128/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 376,
+    "left_image": "results/resizeReduce/20/256/30.png",
+    "right_image": "results/piaResize/20/256/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 377,
+    "left_image": "results/resizeReduce/10/128/17.png",
+    "right_image": "results/piaResize/10/128/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 378,
+    "left_image": "results/piaResize/5/32/37.png",
+    "right_image": "results/resizeReduce/5/32/37.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 379,
+    "left_image": "results/resizeReduce/5/32/0.png",
+    "right_image": "results/piaResize/5/32/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 380,
+    "left_image": "results/resizeReduce/20/128/26.png",
+    "right_image": "results/piaResize/20/128/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 381,
+    "left_image": "results/resizeReduce/20/128/34.png",
+    "right_image": "results/piaResize/20/128/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 382,
+    "left_image": "results/resizeReduce/5/256/25.png",
+    "right_image": "results/piaResize/5/256/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 383,
+    "left_image": "results/resizeReduce/10/32/15.png",
+    "right_image": "results/piaResize/10/32/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 384,
+    "left_image": "results/piaResize/20/256/19.png",
+    "right_image": "results/resizeReduce/20/256/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 385,
+    "left_image": "results/piaResize/5/64/4.png",
+    "right_image": "results/resizeReduce/5/64/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 386,
+    "left_image": "results/resizeReduce/5/256/2.png",
+    "right_image": "results/piaResize/5/256/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 387,
+    "left_image": "results/piaResize/2/128/22.png",
+    "right_image": "results/resizeReduce/2/128/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 388,
+    "left_image": "results/resizeReduce/2/32/26.png",
+    "right_image": "results/piaResize/2/32/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 389,
+    "left_image": "results/piaResize/20/64/5.png",
+    "right_image": "results/resizeReduce/20/64/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 390,
+    "left_image": "results/piaResize/20/256/18.png",
+    "right_image": "results/resizeReduce/20/256/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 391,
+    "left_image": "results/piaResize/2/128/37.png",
+    "right_image": "results/resizeReduce/2/128/37.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 392,
+    "left_image": "results/piaResize/20/32/21.png",
+    "right_image": "results/resizeReduce/20/32/21.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 393,
+    "left_image": "results/resizeReduce/2/64/20.png",
+    "right_image": "results/piaResize/2/64/20.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 394,
+    "left_image": "results/piaResize/20/32/32.png",
+    "right_image": "results/resizeReduce/20/32/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 395,
+    "left_image": "results/piaResize/10/128/13.png",
+    "right_image": "results/resizeReduce/10/128/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 396,
+    "left_image": "results/resizeReduce/5/64/38.png",
+    "right_image": "results/piaResize/5/64/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 397,
+    "left_image": "results/piaResize/2/64/26.png",
+    "right_image": "results/resizeReduce/2/64/26.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 398,
+    "left_image": "results/resizeReduce/10/256/17.png",
+    "right_image": "results/piaResize/10/256/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 399,
+    "left_image": "results/piaResize/20/128/24.png",
+    "right_image": "results/resizeReduce/20/128/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 400,
+    "left_image": "results/piaResize/5/256/11.png",
+    "right_image": "results/resizeReduce/5/256/11.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 401,
+    "left_image": "results/resizeReduce/2/64/27.png",
+    "right_image": "results/piaResize/2/64/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 402,
+    "left_image": "results/resizeReduce/2/64/34.png",
+    "right_image": "results/piaResize/2/64/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 403,
+    "left_image": "results/resizeReduce/5/64/0.png",
+    "right_image": "results/piaResize/5/64/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 404,
+    "left_image": "results/resizeReduce/2/32/22.png",
+    "right_image": "results/piaResize/2/32/22.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 405,
+    "left_image": "results/piaResize/2/128/18.png",
+    "right_image": "results/resizeReduce/2/128/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 406,
+    "left_image": "results/resizeReduce/2/64/2.png",
+    "right_image": "results/piaResize/2/64/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 407,
+    "left_image": "results/piaResize/20/32/17.png",
+    "right_image": "results/resizeReduce/20/32/17.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 408,
+    "left_image": "results/piaResize/5/128/33.png",
+    "right_image": "results/resizeReduce/5/128/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 409,
+    "left_image": "results/resizeReduce/10/32/32.png",
+    "right_image": "results/piaResize/10/32/32.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 410,
+    "left_image": "results/resizeReduce/10/64/25.png",
+    "right_image": "results/piaResize/10/64/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 411,
+    "left_image": "results/piaResize/20/64/18.png",
+    "right_image": "results/resizeReduce/20/64/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 412,
+    "left_image": "results/resizeReduce/2/64/31.png",
+    "right_image": "results/piaResize/2/64/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 413,
+    "left_image": "results/resizeReduce/5/256/28.png",
+    "right_image": "results/piaResize/5/256/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 414,
+    "left_image": "results/piaResize/20/64/28.png",
+    "right_image": "results/resizeReduce/20/64/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 415,
+    "left_image": "results/piaResize/20/256/29.png",
+    "right_image": "results/resizeReduce/20/256/29.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 416,
+    "left_image": "results/resizeReduce/2/256/10.png",
+    "right_image": "results/piaResize/2/256/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 417,
+    "left_image": "results/resizeReduce/10/64/12.png",
+    "right_image": "results/piaResize/10/64/12.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 418,
+    "left_image": "results/resizeReduce/10/32/25.png",
+    "right_image": "results/piaResize/10/32/25.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 419,
+    "left_image": "results/piaResize/20/128/21.png",
+    "right_image": "results/resizeReduce/20/128/21.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 420,
+    "left_image": "results/resizeReduce/10/32/23.png",
+    "right_image": "results/piaResize/10/32/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 421,
+    "left_image": "results/piaResize/10/128/30.png",
+    "right_image": "results/resizeReduce/10/128/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 422,
+    "left_image": "results/piaResize/10/64/4.png",
+    "right_image": "results/resizeReduce/10/64/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 423,
+    "left_image": "results/piaResize/5/32/5.png",
+    "right_image": "results/resizeReduce/5/32/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 424,
+    "left_image": "results/resizeReduce/2/32/2.png",
+    "right_image": "results/piaResize/2/32/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 425,
+    "left_image": "results/resizeReduce/20/64/26.png",
+    "right_image": "results/piaResize/20/64/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 426,
+    "left_image": "results/resizeReduce/20/256/20.png",
+    "right_image": "results/piaResize/20/256/20.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 427,
+    "left_image": "results/piaResize/20/32/14.png",
+    "right_image": "results/resizeReduce/20/32/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 428,
+    "left_image": "results/piaResize/10/32/13.png",
+    "right_image": "results/resizeReduce/10/32/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 429,
+    "left_image": "results/piaResize/5/256/24.png",
+    "right_image": "results/resizeReduce/5/256/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 430,
+    "left_image": "results/piaResize/2/32/13.png",
+    "right_image": "results/resizeReduce/2/32/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 431,
+    "left_image": "results/resizeReduce/2/32/16.png",
+    "right_image": "results/piaResize/2/32/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 432,
+    "left_image": "results/piaResize/10/32/22.png",
+    "right_image": "results/resizeReduce/10/32/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 433,
+    "left_image": "results/resizeReduce/20/32/30.png",
+    "right_image": "results/piaResize/20/32/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 434,
+    "left_image": "results/piaResize/20/256/12.png",
+    "right_image": "results/resizeReduce/20/256/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 435,
+    "left_image": "results/piaResize/20/32/28.png",
+    "right_image": "results/resizeReduce/20/32/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 436,
+    "left_image": "results/resizeReduce/20/256/9.png",
+    "right_image": "results/piaResize/20/256/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 437,
+    "left_image": "results/resizeReduce/5/64/29.png",
+    "right_image": "results/piaResize/5/64/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 438,
+    "left_image": "results/resizeReduce/10/256/30.png",
+    "right_image": "results/piaResize/10/256/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 439,
+    "left_image": "results/resizeReduce/20/32/22.png",
+    "right_image": "results/piaResize/20/32/22.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 440,
+    "left_image": "results/piaResize/10/64/11.png",
+    "right_image": "results/resizeReduce/10/64/11.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 441,
+    "left_image": "results/piaResize/20/256/1.png",
+    "right_image": "results/resizeReduce/20/256/1.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 442,
+    "left_image": "results/resizeReduce/5/128/3.png",
+    "right_image": "results/piaResize/5/128/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 443,
+    "left_image": "results/piaResize/2/32/27.png",
+    "right_image": "results/resizeReduce/2/32/27.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 444,
+    "left_image": "results/piaResize/2/256/37.png",
+    "right_image": "results/resizeReduce/2/256/37.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 445,
+    "left_image": "results/piaResize/2/32/35.png",
+    "right_image": "results/resizeReduce/2/32/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 446,
+    "left_image": "results/resizeReduce/2/32/19.png",
+    "right_image": "results/piaResize/2/32/19.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 447,
+    "left_image": "results/resizeReduce/5/128/26.png",
+    "right_image": "results/piaResize/5/128/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 448,
+    "left_image": "results/resizeReduce/5/128/17.png",
+    "right_image": "results/piaResize/5/128/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 449,
+    "left_image": "results/resizeReduce/5/32/33.png",
+    "right_image": "results/piaResize/5/32/33.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 450,
+    "left_image": "results/resizeReduce/10/64/23.png",
+    "right_image": "results/piaResize/10/64/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 451,
+    "left_image": "results/piaResize/2/64/4.png",
+    "right_image": "results/resizeReduce/2/64/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 452,
+    "left_image": "results/piaResize/20/32/2.png",
+    "right_image": "results/resizeReduce/20/32/2.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 453,
+    "left_image": "results/resizeReduce/5/32/23.png",
+    "right_image": "results/piaResize/5/32/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 454,
+    "left_image": "results/resizeReduce/10/256/8.png",
+    "right_image": "results/piaResize/10/256/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 455,
+    "left_image": "results/resizeReduce/2/256/19.png",
+    "right_image": "results/piaResize/2/256/19.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 456,
+    "left_image": "results/piaResize/20/128/2.png",
+    "right_image": "results/resizeReduce/20/128/2.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 457,
+    "left_image": "results/resizeReduce/20/256/11.png",
+    "right_image": "results/piaResize/20/256/11.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 458,
+    "left_image": "results/piaResize/10/64/33.png",
+    "right_image": "results/resizeReduce/10/64/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 459,
+    "left_image": "results/piaResize/5/64/28.png",
+    "right_image": "results/resizeReduce/5/64/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 460,
+    "left_image": "results/piaResize/2/256/3.png",
+    "right_image": "results/resizeReduce/2/256/3.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 461,
+    "left_image": "results/piaResize/5/64/36.png",
+    "right_image": "results/resizeReduce/5/64/36.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 462,
+    "left_image": "results/resizeReduce/5/256/38.png",
+    "right_image": "results/piaResize/5/256/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 463,
+    "left_image": "results/piaResize/5/32/14.png",
+    "right_image": "results/resizeReduce/5/32/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 464,
+    "left_image": "results/piaResize/2/32/34.png",
+    "right_image": "results/resizeReduce/2/32/34.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 465,
+    "left_image": "results/piaResize/20/64/33.png",
+    "right_image": "results/resizeReduce/20/64/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 466,
+    "left_image": "results/piaResize/20/128/19.png",
+    "right_image": "results/resizeReduce/20/128/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 467,
+    "left_image": "results/piaResize/2/128/0.png",
+    "right_image": "results/resizeReduce/2/128/0.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 468,
+    "left_image": "results/resizeReduce/10/32/18.png",
+    "right_image": "results/piaResize/10/32/18.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 469,
+    "left_image": "results/resizeReduce/10/256/23.png",
+    "right_image": "results/piaResize/10/256/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 470,
+    "left_image": "results/piaResize/10/128/18.png",
+    "right_image": "results/resizeReduce/10/128/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 471,
+    "left_image": "results/resizeReduce/5/32/29.png",
+    "right_image": "results/piaResize/5/32/29.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 472,
+    "left_image": "results/piaResize/5/32/6.png",
+    "right_image": "results/resizeReduce/5/32/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 473,
+    "left_image": "results/piaResize/20/128/35.png",
+    "right_image": "results/resizeReduce/20/128/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 474,
+    "left_image": "results/piaResize/10/128/4.png",
+    "right_image": "results/resizeReduce/10/128/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 475,
+    "left_image": "results/resizeReduce/2/128/6.png",
+    "right_image": "results/piaResize/2/128/6.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 476,
+    "left_image": "results/piaResize/5/32/26.png",
+    "right_image": "results/resizeReduce/5/32/26.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 477,
+    "left_image": "results/piaResize/5/128/24.png",
+    "right_image": "results/resizeReduce/5/128/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 478,
+    "left_image": "results/piaResize/10/64/32.png",
+    "right_image": "results/resizeReduce/10/64/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 479,
+    "left_image": "results/resizeReduce/5/64/1.png",
+    "right_image": "results/piaResize/5/64/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 480,
+    "left_image": "results/piaResize/10/32/12.png",
+    "right_image": "results/resizeReduce/10/32/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 481,
+    "left_image": "results/piaResize/2/128/4.png",
+    "right_image": "results/resizeReduce/2/128/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 482,
+    "left_image": "results/resizeReduce/10/256/37.png",
+    "right_image": "results/piaResize/10/256/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 483,
+    "left_image": "results/resizeReduce/2/64/10.png",
+    "right_image": "results/piaResize/2/64/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 484,
+    "left_image": "results/resizeReduce/2/128/34.png",
+    "right_image": "results/piaResize/2/128/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 485,
+    "left_image": "results/resizeReduce/10/64/20.png",
+    "right_image": "results/piaResize/10/64/20.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 486,
+    "left_image": "results/resizeReduce/20/256/4.png",
+    "right_image": "results/piaResize/20/256/4.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 487,
+    "left_image": "results/resizeReduce/20/64/20.png",
+    "right_image": "results/piaResize/20/64/20.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 488,
+    "left_image": "results/resizeReduce/20/128/31.png",
+    "right_image": "results/piaResize/20/128/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 489,
+    "left_image": "results/piaResize/20/64/17.png",
+    "right_image": "results/resizeReduce/20/64/17.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 490,
+    "left_image": "results/resizeReduce/2/256/5.png",
+    "right_image": "results/piaResize/2/256/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 491,
+    "left_image": "results/piaResize/2/256/6.png",
+    "right_image": "results/resizeReduce/2/256/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 492,
+    "left_image": "results/piaResize/20/128/27.png",
+    "right_image": "results/resizeReduce/20/128/27.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 493,
+    "left_image": "results/resizeReduce/10/32/9.png",
+    "right_image": "results/piaResize/10/32/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 494,
+    "left_image": "results/piaResize/10/64/26.png",
+    "right_image": "results/resizeReduce/10/64/26.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 495,
+    "left_image": "results/piaResize/2/32/25.png",
+    "right_image": "results/resizeReduce/2/32/25.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 496,
+    "left_image": "results/piaResize/10/128/38.png",
+    "right_image": "results/resizeReduce/10/128/38.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 497,
+    "left_image": "results/piaResize/10/128/0.png",
+    "right_image": "results/resizeReduce/10/128/0.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 498,
+    "left_image": "results/resizeReduce/5/128/38.png",
+    "right_image": "results/piaResize/5/128/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 499,
+    "left_image": "results/resizeReduce/10/256/26.png",
+    "right_image": "results/piaResize/10/256/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 500,
+    "left_image": "results/piaResize/10/32/26.png",
+    "right_image": "results/resizeReduce/10/32/26.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 501,
+    "left_image": "results/resizeReduce/10/128/5.png",
+    "right_image": "results/piaResize/10/128/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 502,
+    "left_image": "results/resizeReduce/20/256/5.png",
+    "right_image": "results/piaResize/20/256/5.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 503,
+    "left_image": "results/piaResize/2/64/3.png",
+    "right_image": "results/resizeReduce/2/64/3.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 504,
+    "left_image": "results/resizeReduce/5/64/3.png",
+    "right_image": "results/piaResize/5/64/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 505,
+    "left_image": "results/resizeReduce/10/256/22.png",
+    "right_image": "results/piaResize/10/256/22.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 506,
+    "left_image": "results/resizeReduce/2/256/36.png",
+    "right_image": "results/piaResize/2/256/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 507,
+    "left_image": "results/piaResize/20/256/23.png",
+    "right_image": "results/resizeReduce/20/256/23.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 508,
+    "left_image": "results/piaResize/20/32/20.png",
+    "right_image": "results/resizeReduce/20/32/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 509,
+    "left_image": "results/resizeReduce/20/256/8.png",
+    "right_image": "results/piaResize/20/256/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 510,
+    "left_image": "results/resizeReduce/2/256/32.png",
+    "right_image": "results/piaResize/2/256/32.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 511,
+    "left_image": "results/piaResize/20/32/33.png",
+    "right_image": "results/resizeReduce/20/32/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 512,
+    "left_image": "results/piaResize/10/256/28.png",
+    "right_image": "results/resizeReduce/10/256/28.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 513,
+    "left_image": "results/piaResize/20/32/0.png",
+    "right_image": "results/resizeReduce/20/32/0.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 514,
+    "left_image": "results/resizeReduce/5/64/37.png",
+    "right_image": "results/piaResize/5/64/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 515,
+    "left_image": "results/resizeReduce/5/128/34.png",
+    "right_image": "results/piaResize/5/128/34.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 516,
+    "left_image": "results/piaResize/5/256/20.png",
+    "right_image": "results/resizeReduce/5/256/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 517,
+    "left_image": "results/resizeReduce/2/32/1.png",
+    "right_image": "results/piaResize/2/32/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 518,
+    "left_image": "results/resizeReduce/20/64/15.png",
+    "right_image": "results/piaResize/20/64/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 519,
+    "left_image": "results/piaResize/5/256/3.png",
+    "right_image": "results/resizeReduce/5/256/3.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 520,
+    "left_image": "results/resizeReduce/20/128/15.png",
+    "right_image": "results/piaResize/20/128/15.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 521,
+    "left_image": "results/resizeReduce/2/32/32.png",
+    "right_image": "results/piaResize/2/32/32.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 522,
+    "left_image": "results/resizeReduce/10/128/37.png",
+    "right_image": "results/piaResize/10/128/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 523,
+    "left_image": "results/resizeReduce/10/32/39.png",
+    "right_image": "results/piaResize/10/32/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 524,
+    "left_image": "results/resizeReduce/5/32/4.png",
+    "right_image": "results/piaResize/5/32/4.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 525,
+    "left_image": "results/resizeReduce/2/32/39.png",
+    "right_image": "results/piaResize/2/32/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 526,
+    "left_image": "results/resizeReduce/2/64/17.png",
+    "right_image": "results/piaResize/2/64/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 527,
+    "left_image": "results/resizeReduce/5/32/3.png",
+    "right_image": "results/piaResize/5/32/3.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 528,
+    "left_image": "results/resizeReduce/10/256/24.png",
+    "right_image": "results/piaResize/10/256/24.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 529,
+    "left_image": "results/resizeReduce/5/64/24.png",
+    "right_image": "results/piaResize/5/64/24.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 530,
+    "left_image": "results/resizeReduce/10/32/38.png",
+    "right_image": "results/piaResize/10/32/38.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 531,
+    "left_image": "results/piaResize/2/64/29.png",
+    "right_image": "results/resizeReduce/2/64/29.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 532,
+    "left_image": "results/piaResize/10/32/33.png",
+    "right_image": "results/resizeReduce/10/32/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 533,
+    "left_image": "results/piaResize/2/256/23.png",
+    "right_image": "results/resizeReduce/2/256/23.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 534,
+    "left_image": "results/piaResize/20/32/31.png",
+    "right_image": "results/resizeReduce/20/32/31.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 535,
+    "left_image": "results/piaResize/20/32/24.png",
+    "right_image": "results/resizeReduce/20/32/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 536,
+    "left_image": "results/piaResize/2/32/36.png",
+    "right_image": "results/resizeReduce/2/32/36.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 537,
+    "left_image": "results/piaResize/5/128/13.png",
+    "right_image": "results/resizeReduce/5/128/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 538,
+    "left_image": "results/piaResize/2/256/39.png",
+    "right_image": "results/resizeReduce/2/256/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 539,
+    "left_image": "results/piaResize/10/128/16.png",
+    "right_image": "results/resizeReduce/10/128/16.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 540,
+    "left_image": "results/resizeReduce/10/128/23.png",
+    "right_image": "results/piaResize/10/128/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 541,
+    "left_image": "results/piaResize/5/32/13.png",
+    "right_image": "results/resizeReduce/5/32/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 542,
+    "left_image": "results/resizeReduce/20/64/12.png",
+    "right_image": "results/piaResize/20/64/12.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 543,
+    "left_image": "results/piaResize/5/256/13.png",
+    "right_image": "results/resizeReduce/5/256/13.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 544,
+    "left_image": "results/resizeReduce/5/256/21.png",
+    "right_image": "results/piaResize/5/256/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 545,
+    "left_image": "results/resizeReduce/5/64/35.png",
+    "right_image": "results/piaResize/5/64/35.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 546,
+    "left_image": "results/resizeReduce/2/128/19.png",
+    "right_image": "results/piaResize/2/128/19.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 547,
+    "left_image": "results/piaResize/10/64/7.png",
+    "right_image": "results/resizeReduce/10/64/7.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 548,
+    "left_image": "results/piaResize/2/128/33.png",
+    "right_image": "results/resizeReduce/2/128/33.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 549,
+    "left_image": "results/resizeReduce/10/128/10.png",
+    "right_image": "results/piaResize/10/128/10.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 550,
+    "left_image": "results/resizeReduce/20/64/27.png",
+    "right_image": "results/piaResize/20/64/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 551,
+    "left_image": "results/piaResize/20/128/4.png",
+    "right_image": "results/resizeReduce/20/128/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 552,
+    "left_image": "results/resizeReduce/5/256/0.png",
+    "right_image": "results/piaResize/5/256/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 553,
+    "left_image": "results/resizeReduce/10/32/27.png",
+    "right_image": "results/piaResize/10/32/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 554,
+    "left_image": "results/piaResize/10/64/27.png",
+    "right_image": "results/resizeReduce/10/64/27.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 555,
+    "left_image": "results/resizeReduce/10/256/2.png",
+    "right_image": "results/piaResize/10/256/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 556,
+    "left_image": "results/resizeReduce/20/128/0.png",
+    "right_image": "results/piaResize/20/128/0.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 557,
+    "left_image": "results/resizeReduce/2/32/31.png",
+    "right_image": "results/piaResize/2/32/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 558,
+    "left_image": "results/piaResize/5/64/25.png",
+    "right_image": "results/resizeReduce/5/64/25.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 559,
+    "left_image": "results/resizeReduce/20/32/7.png",
+    "right_image": "results/piaResize/20/32/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 560,
+    "left_image": "results/piaResize/20/32/4.png",
+    "right_image": "results/resizeReduce/20/32/4.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 561,
+    "left_image": "results/piaResize/10/256/35.png",
+    "right_image": "results/resizeReduce/10/256/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 562,
+    "left_image": "results/piaResize/5/256/10.png",
+    "right_image": "results/resizeReduce/5/256/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 563,
+    "left_image": "results/resizeReduce/5/256/36.png",
+    "right_image": "results/piaResize/5/256/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 564,
+    "left_image": "results/piaResize/2/32/8.png",
+    "right_image": "results/resizeReduce/2/32/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 565,
+    "left_image": "results/piaResize/5/64/39.png",
+    "right_image": "results/resizeReduce/5/64/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 566,
+    "left_image": "results/piaResize/20/32/10.png",
+    "right_image": "results/resizeReduce/20/32/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 567,
+    "left_image": "results/piaResize/10/256/5.png",
+    "right_image": "results/resizeReduce/10/256/5.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 568,
+    "left_image": "results/resizeReduce/5/64/30.png",
+    "right_image": "results/piaResize/5/64/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 569,
+    "left_image": "results/piaResize/10/128/9.png",
+    "right_image": "results/resizeReduce/10/128/9.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 570,
+    "left_image": "results/resizeReduce/20/256/39.png",
+    "right_image": "results/piaResize/20/256/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 571,
+    "left_image": "results/piaResize/10/128/35.png",
+    "right_image": "results/resizeReduce/10/128/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 572,
+    "left_image": "results/resizeReduce/20/64/37.png",
+    "right_image": "results/piaResize/20/64/37.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 573,
+    "left_image": "results/resizeReduce/10/128/36.png",
+    "right_image": "results/piaResize/10/128/36.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 574,
+    "left_image": "results/piaResize/5/64/22.png",
+    "right_image": "results/resizeReduce/5/64/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 575,
+    "left_image": "results/piaResize/20/256/10.png",
+    "right_image": "results/resizeReduce/20/256/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 576,
+    "left_image": "results/resizeReduce/2/64/23.png",
+    "right_image": "results/piaResize/2/64/23.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 577,
+    "left_image": "results/resizeReduce/10/256/39.png",
+    "right_image": "results/piaResize/10/256/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 578,
+    "left_image": "results/piaResize/20/32/39.png",
+    "right_image": "results/resizeReduce/20/32/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 579,
+    "left_image": "results/resizeReduce/10/64/16.png",
+    "right_image": "results/piaResize/10/64/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 580,
+    "left_image": "results/piaResize/20/256/3.png",
+    "right_image": "results/resizeReduce/20/256/3.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 581,
+    "left_image": "results/resizeReduce/10/256/16.png",
+    "right_image": "results/piaResize/10/256/16.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 582,
+    "left_image": "results/resizeReduce/10/32/17.png",
+    "right_image": "results/piaResize/10/32/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 583,
+    "left_image": "results/resizeReduce/2/256/1.png",
+    "right_image": "results/piaResize/2/256/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 584,
+    "left_image": "results/resizeReduce/2/64/9.png",
+    "right_image": "results/piaResize/2/64/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 585,
+    "left_image": "results/resizeReduce/20/32/27.png",
+    "right_image": "results/piaResize/20/32/27.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 586,
+    "left_image": "results/piaResize/2/32/14.png",
+    "right_image": "results/resizeReduce/2/32/14.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 587,
+    "left_image": "results/resizeReduce/10/64/39.png",
+    "right_image": "results/piaResize/10/64/39.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 588,
+    "left_image": "results/piaResize/2/64/6.png",
+    "right_image": "results/resizeReduce/2/64/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 589,
+    "left_image": "results/piaResize/20/32/18.png",
+    "right_image": "results/resizeReduce/20/32/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 590,
+    "left_image": "results/piaResize/5/32/38.png",
+    "right_image": "results/resizeReduce/5/32/38.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 591,
+    "left_image": "results/resizeReduce/10/128/31.png",
+    "right_image": "results/piaResize/10/128/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 592,
+    "left_image": "results/piaResize/2/256/30.png",
+    "right_image": "results/resizeReduce/2/256/30.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 593,
+    "left_image": "results/resizeReduce/5/128/9.png",
+    "right_image": "results/piaResize/5/128/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 594,
+    "left_image": "results/piaResize/10/64/22.png",
+    "right_image": "results/resizeReduce/10/64/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 595,
+    "left_image": "results/resizeReduce/2/64/13.png",
+    "right_image": "results/piaResize/2/64/13.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 596,
+    "left_image": "results/piaResize/2/32/6.png",
+    "right_image": "results/resizeReduce/2/32/6.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 597,
+    "left_image": "results/resizeReduce/5/32/9.png",
+    "right_image": "results/piaResize/5/32/9.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 598,
+    "left_image": "results/resizeReduce/20/256/31.png",
+    "right_image": "results/piaResize/20/256/31.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 599,
+    "left_image": "results/piaResize/5/32/10.png",
+    "right_image": "results/resizeReduce/5/32/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 600,
+    "left_image": "results/piaResize/5/256/22.png",
+    "right_image": "results/resizeReduce/5/256/22.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 601,
+    "left_image": "results/resizeReduce/2/32/33.png",
+    "right_image": "results/piaResize/2/32/33.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 602,
+    "left_image": "results/resizeReduce/2/64/1.png",
+    "right_image": "results/piaResize/2/64/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 603,
+    "left_image": "results/piaResize/10/128/8.png",
+    "right_image": "results/resizeReduce/10/128/8.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 604,
+    "left_image": "results/resizeReduce/5/32/28.png",
+    "right_image": "results/piaResize/5/32/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 605,
+    "left_image": "results/piaResize/5/256/12.png",
+    "right_image": "results/resizeReduce/5/256/12.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 606,
+    "left_image": "results/resizeReduce/2/256/21.png",
+    "right_image": "results/piaResize/2/256/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 607,
+    "left_image": "results/resizeReduce/2/32/7.png",
+    "right_image": "results/piaResize/2/32/7.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 608,
+    "left_image": "results/resizeReduce/5/64/14.png",
+    "right_image": "results/piaResize/5/64/14.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 609,
+    "left_image": "results/resizeReduce/5/64/12.png",
+    "right_image": "results/piaResize/5/64/12.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 610,
+    "left_image": "results/piaResize/5/32/31.png",
+    "right_image": "results/resizeReduce/5/32/31.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 611,
+    "left_image": "results/resizeReduce/2/128/21.png",
+    "right_image": "results/piaResize/2/128/21.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 612,
+    "left_image": "results/resizeReduce/2/128/12.png",
+    "right_image": "results/piaResize/2/128/12.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 613,
+    "left_image": "results/piaResize/2/64/18.png",
+    "right_image": "results/resizeReduce/2/64/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 614,
+    "left_image": "results/resizeReduce/10/32/14.png",
+    "right_image": "results/piaResize/10/32/14.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 615,
+    "left_image": "results/resizeReduce/20/256/28.png",
+    "right_image": "results/piaResize/20/256/28.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 616,
+    "left_image": "results/piaResize/20/128/39.png",
+    "right_image": "results/resizeReduce/20/128/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 617,
+    "left_image": "results/piaResize/5/256/31.png",
+    "right_image": "results/resizeReduce/5/256/31.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 618,
+    "left_image": "results/piaResize/2/32/24.png",
+    "right_image": "results/resizeReduce/2/32/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 619,
+    "left_image": "results/resizeReduce/5/32/30.png",
+    "right_image": "results/piaResize/5/32/30.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 620,
+    "left_image": "results/piaResize/10/128/20.png",
+    "right_image": "results/resizeReduce/10/128/20.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 621,
+    "left_image": "results/piaResize/10/32/2.png",
+    "right_image": "results/resizeReduce/10/32/2.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 622,
+    "left_image": "results/resizeReduce/20/256/2.png",
+    "right_image": "results/piaResize/20/256/2.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 623,
+    "left_image": "results/resizeReduce/2/256/8.png",
+    "right_image": "results/piaResize/2/256/8.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 624,
+    "left_image": "results/piaResize/20/128/32.png",
+    "right_image": "results/resizeReduce/20/128/32.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 625,
+    "left_image": "results/resizeReduce/5/32/32.png",
+    "right_image": "results/piaResize/5/32/32.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 626,
+    "left_image": "results/resizeReduce/5/256/26.png",
+    "right_image": "results/piaResize/5/256/26.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 627,
+    "left_image": "results/piaResize/5/256/35.png",
+    "right_image": "results/resizeReduce/5/256/35.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 628,
+    "left_image": "results/resizeReduce/20/128/17.png",
+    "right_image": "results/piaResize/20/128/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 629,
+    "left_image": "results/piaResize/20/128/23.png",
+    "right_image": "results/resizeReduce/20/128/23.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 630,
+    "left_image": "results/piaResize/10/256/25.png",
+    "right_image": "results/resizeReduce/10/256/25.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 631,
+    "left_image": "results/resizeReduce/10/128/33.png",
+    "right_image": "results/piaResize/10/128/33.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 632,
+    "left_image": "results/piaResize/5/128/36.png",
+    "right_image": "results/resizeReduce/5/128/36.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 633,
+    "left_image": "results/piaResize/2/128/39.png",
+    "right_image": "results/resizeReduce/2/128/39.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 634,
+    "left_image": "results/piaResize/5/128/19.png",
+    "right_image": "results/resizeReduce/5/128/19.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 635,
+    "left_image": "results/piaResize/10/64/18.png",
+    "right_image": "results/resizeReduce/10/64/18.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 636,
+    "left_image": "results/resizeReduce/5/32/1.png",
+    "right_image": "results/piaResize/5/32/1.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 637,
+    "left_image": "results/piaResize/5/64/10.png",
+    "right_image": "results/resizeReduce/5/64/10.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  },
+  {
+    "pair_id": 638,
+    "left_image": "results/resizeReduce/2/32/17.png",
+    "right_image": "results/piaResize/2/32/17.png",
+    "left_method": "resizeReduce",
+    "right_method": "piaResize"
+  },
+  {
+    "pair_id": 639,
+    "left_image": "results/piaResize/20/256/24.png",
+    "right_image": "results/resizeReduce/20/256/24.png",
+    "left_method": "piaResize",
+    "right_method": "resizeReduce"
+  }
+]

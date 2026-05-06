@@ -1,0 +1,44 @@
+{
+  "pageTitle": "Evaluace pixel-art metod",
+  "indexTitle": "Subjektivní evaluace pixel-art metod",
+
+  "introParagraph1": "Dobrý den,\n\ntato aplikace slouží k subjektivnímu porovnávání metod převodu obrázků do pixel-art stylu. Pixel art je grafický styl typický nízkým rozlišením a viditelnou pixelovou (\"čtverečkovanou\") strukturou. Obrázky použité v hodnoceních byly vygenerovány v rámci mé diplomové práce, která se zabývá automatickým převodem běžných obrázků do pixel-art podoby.",
+  "introParagraph2": "V každém kroku budou zobrazeny dva obrázky. Vaším úkolem je vybrat:",
+  "introBullet1": "který obrázek vypadá lépe,",
+  "introBullet2": "nebo zda jsou přibližně stejné.",
+  "introParagraph3": "Hodnocení jsou zcela anonymní. Nemusíte vyplňovat všechna hodnocení ani dokončit všechna porovnání v nich. Hodnocení můžete kdykoliv ukončit a později se k němu vrátit.",
+
+  "pixelArtistText": "Máte zkušenosti s pixel artem nebo se v něm alespoň orientujete?",
+  "isPixelArtist": "Ano",
+  "isNotPixelArtist": "Ne",
+
+  "deadlineTitle": "Termín vyplnění",
+  "deadlineText": "Prosím o vyplnění hodnocení do 13. 5. 2026, aby mohly být výsledky zahrnuty do vyhodnocení diplomové práce.",
+
+  "evaluationSelection": "Výběr hodnocení",
+  "evaluation1": "Hodnocení 1: Základní metody",
+  "evaluation2": "Hodnocení 2: Redukce barev",
+  "evaluation3": "Hodnocení 3: Porovnání metod",
+
+  "footerText": "Tomáš Kurtin · FIT VUT · Diplomová práce 2026",
+  "footerMail": "xkurti03@stud.fit.vut.cz",
+
+  "back": "Zpět",
+  "evaluationTitle": "Hodnocení",
+
+  "evaluationInstruction": "Vyberte obrázek, který podle vás vypadá lépe.",
+
+  "referenceImage": "Původní obrázek",
+
+  "leftBetter": "Levý je lepší",
+  "rightBetter": "Pravý je lepší",
+  "topBetter": "Horní je lepší",
+  "bottomBetter": "Spodní je lepší",
+  "same": "Jsou přibližně stejné",
+
+  "finished": "Hodnocení dokončeno",
+  "thanks": "Děkuji za účast v hodnocení",
+  "backToMainPage": "Zpět na hlavní stránku",
+
+  "noMorePairs": "Žádná další porovnání."
+}

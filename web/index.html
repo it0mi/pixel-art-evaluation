@@ -1,0 +1,112 @@
+<!--
+  -- Author: Tomáš Kurtin (xkurti03@stud.fit.vut.cz)
+  -- Date: 5 May 2026
+  -- Description: Index page with tests information.
+  -->
+
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title data-i18n-key="pageTitle">Evaluace pixel-art metod</title>
+
+    <link rel="stylesheet" href="css/pico/pico.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <link rel="icon" href="data:;base64,=" />
+  </head>
+
+  <body>
+    <main class="container">
+      <nav>
+        <h1 data-i18n-key="indexTitle">Subjektivní evaluace pixel-art metod</h1>
+        <button id="lang">EN</button>
+      </nav>
+
+      <p data-i18n-key="introParagraph1">
+        Dobrý den,<br /><br />
+
+        tato aplikace slouží k subjektivnímu porovnávání metod převodu obrázků
+        do pixel-art stylu. Pixel art je grafický styl typický nízkým rozlišením
+        a viditelnou pixelovou ("čtverečkovanou") strukturou. Obrázky použité v
+        hodnoceních byly vygenerovány v rámci mé diplomové práce, která se
+        zabývá automatickým převodem běžných obrázků do pixel-art podoby.
+      </p>
+
+      <p data-i18n-key="introParagraph2">
+        V každém kroku budou zobrazeny dva obrázky. Vaším úkolem je vybrat:
+      </p>
+
+      <ul>
+        <li data-i18n-key="introBullet1">který obrázek vypadá lépe,</li>
+        <li data-i18n-key="introBullet2">nebo zda jsou přibližně stejné.</li>
+      </ul>
+
+      <p data-i18n-key="introParagraph3">
+        Hodnocení jsou zcela anonymní. Nemusíte vyplňovat všechna hodnocení ani
+        dokončit všechna porovnání v nich. Hodnocení můžete kdykoliv ukončit a
+        později se k němu vrátit.
+      </p>
+
+      <h4 data-i18n-key="deadlineTitle">Termín vyplnění</h4>
+      <p data-i18n-key="deadlineText">
+        Prosím o vyplnění hodnocení do 13.&nbsp;5.&nbsp;2026, aby mohly být
+        výsledky zahrnuty do vyhodnocení diplomové práce.
+      </p>
+      <hr />
+      <section id="pixelArtist-section">
+        <h4 data-i18n-key="pixelArtistText">
+          Máte zkušenosti s pixel artem nebo se v něm alespoň orientujete?
+        </h4>
+        <div id="pixelArtistsButtons">
+          <button id="isPixelArtist" data-i18n-key="isPixelArtist">Ano</button>
+          <button id="isNotPixelArtist" data-i18n-key="isNotPixelArtist">
+            Ne
+          </button>
+        </div>
+      </section>
+
+      <hr />
+      <h3 data-i18n-key="evaluationSelection">Výběr hodnocení</h3>
+
+      <div class="grid">
+        <a
+          href="test.html?test=naive"
+          role="button"
+          data-i18n-key="evaluation1"
+        >
+          Hodnocení 1: Základní metody
+        </a>
+
+        <a
+          href="test.html?test=colorReduction"
+          role="button"
+          data-i18n-key="evaluation2"
+        >
+          Hodnocení 2: Redukce barev
+        </a>
+
+        <a
+          href="test.html?test=allMethods"
+          role="button"
+          data-i18n-key="evaluation3"
+        >
+          Hodnocení 3: Porovnání metod
+        </a>
+      </div>
+      <footer>
+        <hr />
+        <small>
+          <div data-i18n-key="footerText">
+            Tomáš Kurtin · FIT VUT · Diplomová práce 2026
+          </div>
+          <div data-i18n-key="footerMail">xkurti03@stud.fit.vut.cz</div>
+        </small>
+      </footer>
+    </main>
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>
