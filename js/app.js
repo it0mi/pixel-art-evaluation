@@ -53,3 +53,20 @@ if (isArtist === null) {
   if (isArtist === "true") yesButton.click();
   else noButton.click();
 }
+
+["naive", "colorReduction", "allMethods"].forEach((element) => {
+  if(localStorage.getItem(element+"-done") === "true") continue;
+  
+  const savedProgress = `progress_${element}`;
+  const savedIndex = localStorage.getItem(savedProgress);
+  if (savedIndex) {
+    currentIndex = parseInt(savedIndex);
+  }
+  const cacheKey = "pairs_cache_" + element;
+  if (localStorage.getItem(cacheKey) == null)
+    continue;
+  pairs = JSON.parse(localStorage.getItem(cacheKey));
+
+  if(currentIndex >= pairs.length)
+    localStorage.setItem(element+"-done", "true");
+});

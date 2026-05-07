@@ -112,13 +112,36 @@ function imageExists(src) {
 async function showPair() {
   // Nothing more to evaluate, max evaluation count has been reached.
   if (currentIndex >= pairs.length) {
+    localStorage.setItem(testName + "-done", "true");
     document.body.innerHTML = `
         <main class="container">
           <h1 data-i18n-key="finished">Hodnocení dokončeno</h1>
-          <p data-i18n-key="thanks">Děkuji za účast v testu.</p>
-          <a data-i18n-key="backToMainPage" href="index.html" role="button"> Zpět na hlavní stránku </a>
+          <p><span data-i18n-key="thanks">Děkuji za účast v hodnocení.</span> <span id="answerOthers" data-i18n-key="answerOthers">Pokud máte ještě čas, budu rád, když vyplníte i zbylá hodnocení.</span></p>
+          <div id="finishedButtons">
+            <a id="finished1" data-i18n-key="evaluation1" role="button" href="test.html?test=naive">Hodnocení 1</a>
+            <a id="finished2" data-i18n-key="evaluation2" role="button" href="test.html?test=colorReduction">Hodnocení 2</a>
+            <a id="finished3" data-i18n-key="evaluation3" role="button" href="test.html?test=allMethods">Hodnocení 3</a>
+            <a data-i18n-key="backToMainPage" href="index.html" role="button"> Zpět na hlavní stránku </a>
+          </div>
         </main>
       `;
+    const button1 = document.getElementById("finished1");
+    const button2 = document.getElementById("finished2");
+    const button3 = document.getElementById("finished3");
+    const answerOthers = document.getElementById("answerOthers");
+
+    if (localStorage.getItem("naive-done") === "true")
+      button1.style.display = "none";
+    if (localStorage.getItem("colorReduction-done") === "true")
+      button2.style.display = "none";
+    if (localStorage.getItem("allMethods-done") === "true")
+      button3.style.display = "none";
+    if (
+      localStorage.getItem("naive-done") === "true" &&
+      localStorage.getItem("colorReduction-done") === "true" &&
+      localStorage.getItem("allMethods-done") === "true"
+    )
+      answerOthers.style.display = "none";
     applyTranslations();
     return;
   }
@@ -198,7 +221,6 @@ async function submitChoice(choice) {
   localStorage.setItem(savedProgress, currentIndex);
 
   showPair();
-
   // Send POST to Google Apps Script
   try {
     const formData = new FormData();
