@@ -55,18 +55,18 @@ if (isArtist === null) {
 }
 
 ["naive", "colorReduction", "allMethods"].forEach((element) => {
-  if(localStorage.getItem(element+"-done") === "true") continue;
-  
+  if (localStorage.getItem(element + "-done") === "true") return;
+  let currentIndex;
+  let pairs;
   const savedProgress = `progress_${element}`;
   const savedIndex = localStorage.getItem(savedProgress);
   if (savedIndex) {
     currentIndex = parseInt(savedIndex);
   }
   const cacheKey = "pairs_cache_" + element;
-  if (localStorage.getItem(cacheKey) == null)
-    continue;
+  if (localStorage.getItem(cacheKey) == null) return;
   pairs = JSON.parse(localStorage.getItem(cacheKey));
 
-  if(currentIndex >= pairs.length)
-    localStorage.setItem(element+"-done", "true");
+  if (currentIndex >= pairs.length)
+    localStorage.setItem(element + "-done", "true");
 });
